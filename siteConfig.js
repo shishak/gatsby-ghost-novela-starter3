@@ -10,7 +10,7 @@ module.exports = {
   siteIcon: "favicon.png",
   backgroundColor: "#e9e9e9",
   themeColor: "#15171A",
-  apiUrl: "https://ghost.theasdfghjkl.com",
+  apiUrl: "http://18.193.174.227/",
   header: {
     navigation: [
       {
