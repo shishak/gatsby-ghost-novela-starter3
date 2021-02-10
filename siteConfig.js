@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: "https://ghost-novela-preview.draftbox.co",
+  siteUrl: "https://admiring-turing-2b8fdf.netlify.app/",
   postsPerPage: 12,
   siteTitleMeta: "Built with Draftbox",
   siteDescriptionMeta:
@@ -15,11 +15,11 @@ module.exports = {
     navigation: [
       {
         label: "Home",
-        url: "https://ghost-novela-preview.draftbox.co/",
+        url: "https://admiring-turing-2b8fdf.netlify.app/",
       },
       {
         label: "Contact",
-        url: "https://ghost-novela-preview.draftbox.co/contact",
+        url: "https://admiring-turing-2b8fdf.netlify.app/contact",
       },
     ],
   },
@@ -28,23 +28,23 @@ module.exports = {
     navigation: [
       {
         label: "Home",
-        url: "https://ghost-novela-preview.draftbox.co/",
+        url: "https://admiring-turing-2b8fdf.netlify.app/",
       },
       {
         label: "Sitemap",
-        url: "https://ghost-novela-preview.draftbox.co/sitemap.xml",
+        url: "https://admiring-turing-2b8fdf.netlify.app/sitemap.xml",
       },
       {
         label: "RSS",
-        url: "https://ghost-novela-preview.draftbox.co/rss.xml",
+        url: "https://admiring-turing-2b8fdf.netlify.app/rss.xml",
       },
       {
         label: "Contact",
-        url: "https://ghost-novela-preview.draftbox.co/contact",
+        url: "https://admiring-turing-2b8fdf.netlify.app/contact",
       },
       {
         label: "External Link",
-        url: "https://spectrum.chat/gatsby-js/themes?tab=posts",
+        url: "https://admiring-turing-2b8fdf.netlify.app/themes?tab=posts",
       },
     ],
   },
